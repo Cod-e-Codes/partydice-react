@@ -1,6 +1,6 @@
-# Party Dice Gala
+# Party Dice (React)
 
-Welcome to **Party Dice Gala**, a dynamic and engaging Vite-powered React application designed for fun and interactive gameplay. Whether you're hosting a game night or enjoying some friendly competition, Party Dice Gala provides an exciting platform for players to roll dice, complete challenges, and compete to reach the highest score.
+Welcome to **PartyDice**, a dynamic and engaging Vite-powered React application designed for fun and interactive gameplay. Whether you're hosting a game night or enjoying some friendly competition, Party Dice Gala provides an exciting platform for players to roll dice, complete challenges, and compete to reach the highest score.
 
 ## Table of Contents
 
