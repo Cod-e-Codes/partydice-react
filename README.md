@@ -26,9 +26,9 @@ Welcome to **Party Dice Gala**, a dynamic and engaging Vite-powered React applic
 
 ## Demo
 
-Experience Party Dice Gala live on [GitHub Pages](https://Cod-e-Codes.github.io/party-dice-gala/).
+Experience Party Dice Gala live on [GitHub Pages](https://Cod-e-Codes.github.io/partydice-react/).
 
-![Party Dice Gala Live Demo](https://Cod-e-Codes.github.io/party-dice-gala/og-image.png)
+![Party Dice Gala Live Demo](https://Cod-e-Codes.github.io/partydice-react/og-image.png)
 
 ## Installation
 
@@ -37,13 +37,13 @@ To set up the project locally, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Cod-e-Codes/party-dice-gala.git
+   git clone https://github.com/Cod-e-Codes/partydice-react.git
    ```
 
 2. **Navigate to the Project Directory:**
 
    ```bash
-   cd party-dice-gala
+   cd partydice-react
    ```
 
 3. **Install Dependencies:**
@@ -103,7 +103,7 @@ Contributions are welcome! If you'd like to contribute to Party Dice Gala, pleas
 
 1. **Fork the Repository:**
 
-   Click the [Fork](https://github.com/Cod-e-Codes/party-dice-gala/fork) button at the top right of the repository page.
+   Click the [Fork](https://github.com/Cod-e-Codes/partydice-react/fork) button at the top right of the repository page.
 
 2. **Create a New Branch:**
 
