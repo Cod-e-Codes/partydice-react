@@ -1,6 +1,6 @@
-# Party Dice (React)
+# PartyDice (React)
 
-Welcome to **PartyDice**, a dynamic and engaging Vite-powered React application designed for fun and interactive gameplay. Whether you're hosting a game night or enjoying some friendly competition, Party Dice Gala provides an exciting platform for players to roll dice, complete challenges, and compete to reach the highest score.
+Welcome to **PartyDice**, a dynamic and engaging Vite-powered React application designed for fun and interactive gameplay. Whether you're hosting a game night or enjoying some friendly competition, PartyDice (React) provides an exciting platform for players to roll dice, complete challenges, and compete to reach the highest score.
 
 ## Table of Contents
 
@@ -26,9 +26,9 @@ Welcome to **PartyDice**, a dynamic and engaging Vite-powered React application 
 
 ## Demo
 
-Experience Party Dice Gala live on [GitHub Pages](https://Cod-e-Codes.github.io/partydice-react/).
+Experience PartyDice (React) live on [GitHub Pages](https://Cod-e-Codes.github.io/partydice-react/).
 
-![Party Dice Gala Live Demo](https://Cod-e-Codes.github.io/partydice-react/og-image.png)
+![PartyDice (React) Live Demo](https://Cod-e-Codes.github.io/partydice-react/og-image.png)
 
 ## Installation
 
@@ -99,7 +99,7 @@ To set up the project locally, follow these steps:
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to Party Dice Gala, please follow these steps:
+Contributions are welcome! If you'd like to contribute to PartyDice (React), please follow these steps:
 
 1. **Fork the Repository:**
 
